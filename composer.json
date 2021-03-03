@@ -1,0 +1,13 @@
+{
+    "name": "rocketman2/patterns",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\" : "src/"
+        }
+    }
+}
